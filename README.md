@@ -4,11 +4,12 @@ How SIMUI is defferent from other frontend web frameworks such as Bootstrap or F
 
 
 # GET STARTED
-<!-- Minified CSS ( CDN ) in head --> 
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/simui-code@1.0.0/css/simui.min.css"> 
 
-<!--Minified JS ( CDN) script tag to your project's head / footer --> 
-<script src="https://unpkg.com/simui-code@1.0.0/js/simui.min.js"></script>
+&lt;!-- Minified CSS ( CDN ) in head --&gt; 
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://unpkg.com/simui-code@1.0.0/css/simui.min.css&quot;&gt; 
+
+&lt;!--Minified JS ( CDN) script tag to your project's head / footer --&gt; 
+&lt;script src=&quot;https://unpkg.com/simui-code@1.0.0/js/simui.min.js&quot;&gt;&lt;/script&gt;
 
 
 # How it works
