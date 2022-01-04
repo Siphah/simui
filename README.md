@@ -2,13 +2,14 @@
 SIMUI is an open source frontend web framework built to ease the frontend development process.
 How SIMUI is defferent from other frontend web frameworks such as Bootstrap or Foundation ?
 
+
 # GET STARTED
+<!-- Minified CSS ( CDN ) in head --> 
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/simui-code@1.0.0/css/simui.min.css"> 
 
-<!--Paste this CSS script tag to your project's head -->
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/simui-code@1.0.0/js/simui.min.css">
-
-<!--Paste this JS script tag to your project's head / footer -->
+<!--Minified JS ( CDN) script tag to your project's head / footer --> 
 <script src="https://unpkg.com/simui-code@1.0.0/js/simui.min.js"></script>
+
 
 # How it works
 Simui has certain kewords in the class name which are used to create a grid. A .su-grid-fr4 container div will create a 4 Equal Grid blocks.
